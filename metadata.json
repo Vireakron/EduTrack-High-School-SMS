@@ -1,0 +1,5 @@
+{
+  "name": "EduTrack High School SMS",
+  "description": "A comprehensive Student Management System for high schools featuring performance dashboards, student records, and AI-powered report card generation using Gemini.",
+  "requestFramePermissions": []
+}
